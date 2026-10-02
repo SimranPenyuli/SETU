@@ -1,0 +1,12 @@
+{
+  "name": "setu-police-ai-platform",
+  "version": "1.0.0",
+  "description": "SETU — Unified Police-Assistance Platform prototype (Identity Resolution, Indian-Language NLP, Speech-to-Text)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

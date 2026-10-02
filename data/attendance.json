@@ -1,0 +1,282 @@
+[
+  {
+    "officerId": "INSP001",
+    "date": "2026-08-31",
+    "status": "Present",
+    "markedAt": "2026-08-31T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP001",
+    "date": "2026-09-01",
+    "status": "Present",
+    "markedAt": "2026-09-01T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP001",
+    "date": "2026-09-02",
+    "status": "Present",
+    "markedAt": "2026-09-02T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP001",
+    "date": "2026-09-03",
+    "status": "Present",
+    "markedAt": "2026-09-03T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP001",
+    "date": "2026-09-04",
+    "status": "On Leave",
+    "markedAt": "2026-09-04T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP001",
+    "date": "2026-09-05",
+    "status": "Present",
+    "markedAt": "2026-09-05T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP001",
+    "date": "2026-09-06",
+    "status": "Present",
+    "markedAt": "2026-09-06T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP001",
+    "date": "2026-09-07",
+    "status": "Present",
+    "markedAt": "2026-09-07T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP001",
+    "date": "2026-09-08",
+    "status": "Present",
+    "markedAt": "2026-09-08T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP001",
+    "date": "2026-09-09",
+    "status": "Present",
+    "markedAt": "2026-09-09T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP002",
+    "date": "2026-08-31",
+    "status": "Present",
+    "markedAt": "2026-08-31T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP002",
+    "date": "2026-09-01",
+    "status": "Present",
+    "markedAt": "2026-09-01T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP002",
+    "date": "2026-09-02",
+    "status": "Absent",
+    "markedAt": "2026-09-02T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP002",
+    "date": "2026-09-03",
+    "status": "Present",
+    "markedAt": "2026-09-03T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP002",
+    "date": "2026-09-04",
+    "status": "Present",
+    "markedAt": "2026-09-04T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP002",
+    "date": "2026-09-05",
+    "status": "Present",
+    "markedAt": "2026-09-05T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP002",
+    "date": "2026-09-06",
+    "status": "Present",
+    "markedAt": "2026-09-06T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP002",
+    "date": "2026-09-07",
+    "status": "On Leave",
+    "markedAt": "2026-09-07T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP002",
+    "date": "2026-09-08",
+    "status": "Present",
+    "markedAt": "2026-09-08T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP002",
+    "date": "2026-09-09",
+    "status": "Present",
+    "markedAt": "2026-09-09T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP003",
+    "date": "2026-08-31",
+    "status": "Present",
+    "markedAt": "2026-08-31T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP003",
+    "date": "2026-09-01",
+    "status": "Absent",
+    "markedAt": "2026-09-01T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP003",
+    "date": "2026-09-02",
+    "status": "Present",
+    "markedAt": "2026-09-02T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP003",
+    "date": "2026-09-03",
+    "status": "Present",
+    "markedAt": "2026-09-03T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP003",
+    "date": "2026-09-04",
+    "status": "Present",
+    "markedAt": "2026-09-04T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP003",
+    "date": "2026-09-05",
+    "status": "Present",
+    "markedAt": "2026-09-05T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP003",
+    "date": "2026-09-06",
+    "status": "Present",
+    "markedAt": "2026-09-06T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP003",
+    "date": "2026-09-07",
+    "status": "Present",
+    "markedAt": "2026-09-07T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP003",
+    "date": "2026-09-08",
+    "status": "Absent",
+    "markedAt": "2026-09-08T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP003",
+    "date": "2026-09-09",
+    "status": "Present",
+    "markedAt": "2026-09-09T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP004",
+    "date": "2026-08-31",
+    "status": "On Leave",
+    "markedAt": "2026-08-31T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP004",
+    "date": "2026-09-01",
+    "status": "On Leave",
+    "markedAt": "2026-09-01T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP004",
+    "date": "2026-09-02",
+    "status": "Present",
+    "markedAt": "2026-09-02T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP004",
+    "date": "2026-09-03",
+    "status": "Present",
+    "markedAt": "2026-09-03T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP004",
+    "date": "2026-09-04",
+    "status": "Present",
+    "markedAt": "2026-09-04T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP004",
+    "date": "2026-09-05",
+    "status": "Absent",
+    "markedAt": "2026-09-05T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP004",
+    "date": "2026-09-06",
+    "status": "Present",
+    "markedAt": "2026-09-06T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP004",
+    "date": "2026-09-07",
+    "status": "Present",
+    "markedAt": "2026-09-07T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP004",
+    "date": "2026-09-08",
+    "status": "Present",
+    "markedAt": "2026-09-08T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  },
+  {
+    "officerId": "INSP004",
+    "date": "2026-09-09",
+    "status": "Present",
+    "markedAt": "2026-09-09T08:30:00.000Z",
+    "source": "Station biometric roll-call (mock)"
+  }
+]

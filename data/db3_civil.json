@@ -1,0 +1,135 @@
+[
+  {
+    "regId": "CR-11029",
+    "name": "Ramesh Kr.",
+    "guardianName": "Devi Lal",
+    "dob": "1988-04-12",
+    "district": "Faridabad"
+  },
+  {
+    "regId": "CR-14432",
+    "name": "Anita Sharma",
+    "guardianName": "Mohan Sharma",
+    "dob": "1995-07-19",
+    "district": "Jalandhar"
+  },
+  {
+    "regId": "CR-15501",
+    "name": "Suresh Yadav",
+    "guardianName": "Ram Yadav",
+    "dob": "1990-01-02",
+    "district": "Lucknow"
+  },
+  {
+    "regId": "CR-16620",
+    "name": "Rahul Kumar",
+    "guardianName": "Rajesh Kumar",
+    "dob": "2002-05-12",
+    "district": "Meerut"
+  },
+  {
+    "regId": "CR-17731",
+    "name": "Mohit S.",
+    "guardianName": "Suresh Sharma",
+    "dob": "1999-09-18",
+    "district": "Delhi"
+  },
+  {
+    "regId": "CR-18842",
+    "name": "Aman Verma",
+    "guardianName": "Rakesh Verma",
+    "dob": "2001-02-03",
+    "district": "Ghaziabad"
+  },
+  {
+    "regId": "CR-19953",
+    "name": "Arjun Singh",
+    "guardianName": "Mahesh Singh",
+    "dob": "1998-07-21",
+    "district": "Muzaffarnagar"
+  },
+  {
+    "regId": "CR-20164",
+    "name": "Neeraj Kumar",
+    "guardianName": "Vinod Kumar",
+    "dob": "2000-11-14",
+    "district": "Meerut"
+  },
+  {
+    "regId": "CR-21275",
+    "name": "Ravi Yadav",
+    "guardianName": "Om Prakash",
+    "dob": "1997-01-09",
+    "district": "Hapur"
+  },
+  {
+    "regId": "CR-22386",
+    "name": "Kunal S.",
+    "guardianName": "Anil Sharma",
+    "dob": "2003-06-26",
+    "district": "Noida"
+  },
+  {
+    "regId": "CR-23497",
+    "name": "Deepak Verma",
+    "guardianName": "Madan Verma",
+    "dob": "1994-03-15",
+    "district": "Delhi"
+  },
+  {
+    "regId": "CR-24608",
+    "name": "Pankaj Mishra",
+    "guardianName": "Dinesh Mishra",
+    "dob": "1989-12-05",
+    "district": "Lucknow"
+  },
+  {
+    "regId": "CR-25719",
+    "name": "Nitin Chauhan",
+    "guardianName": "Rajendra Chauhan",
+    "dob": "1996-08-27",
+    "district": "Meerut"
+  },
+  {
+    "regId": "CR-26830",
+    "name": "Sanjay Patel",
+    "guardianName": "Mahendra Patel",
+    "dob": "1991-04-10",
+    "district": "Ahmedabad"
+  },
+  {
+    "regId": "CR-27941",
+    "name": "Imran Khan",
+    "guardianName": "Salim Khan",
+    "dob": "1993-10-22",
+    "district": "Delhi"
+  },
+  {
+    "regId": "CR-28052",
+    "name": "Manoj Das",
+    "guardianName": "Prakash Das",
+    "dob": "1987-02-16",
+    "district": "Kolkata"
+  },
+  {
+    "regId": "CR-29163",
+    "name": "Ajay Reddy",
+    "guardianName": "Srinivas Reddy",
+    "dob": "1992-06-11",
+    "district": "Hyderabad"
+  },
+  {
+    "regId": "CR-30274",
+    "name": "Suresh Kumar",
+    "guardianName": "Mohan Kumar",
+    "dob": "1985-09-30",
+    "district": "Chennai"
+  },
+  {
+    "regId": "CR-31385",
+    "name": "Vijay Nair",
+    "guardianName": "Raj Nair",
+    "dob": "1990-01-25",
+    "district": "Kochi"
+  }
+]

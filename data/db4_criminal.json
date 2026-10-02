@@ -1,0 +1,191 @@
+[
+  {
+    "criminalId": "CHR-10021",
+    "fullName": "Ramesh Kumar",
+    "aliases": ["Ramesh Kr.", "Ramesh Kummar"],
+    "pastCrimes": [
+      {"caseNo":"CR-2019-184","crime":"Vehicle Theft","year":2019,"status":"Closed"},
+      {"caseNo":"CR-2022-071","crime":"Property Theft","year":2022,"status":"Under Review"}
+    ],
+    "totalCases": 2,
+    "lastCaseYear": 2022,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10022",
+    "fullName": "Suresh Yadav",
+    "aliases": ["Suresh Yadaw"],
+    "pastCrimes": [{"caseNo":"CR-2021-119","crime":"Vehicle Theft","year":2021,"status":"Closed"}],
+    "totalCases": 1,
+    "lastCaseYear": 2021,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10023",
+    "fullName": "Anita Sharma",
+    "aliases": ["Anita S."],
+    "pastCrimes": [{"caseNo":"CR-2023-044","crime":"Cybercrime","year":2023,"status":"Closed"}],
+    "totalCases": 1,
+    "lastCaseYear": 2023,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10024",
+    "fullName": "Rajesh Singh",
+    "aliases": ["Rajesh S."],
+    "pastCrimes": [
+      {"caseNo":"CR-2018-205","crime":"Property Theft","year":2018,"status":"Closed"},
+      {"caseNo":"CR-2020-087","crime":"Fraud","year":2020,"status":"Closed"}
+    ],
+    "totalCases": 2,
+    "lastCaseYear": 2020,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10025",
+    "fullName": "Aman Verma",
+    "aliases": ["Aman Vermaa"],
+    "pastCrimes": [{"caseNo":"CR-2022-156","crime":"Vehicle Theft","year":2022,"status":"Closed"}],
+    "totalCases": 1,
+    "lastCaseYear": 2022,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10026",
+    "fullName": "Priya Mehta",
+    "aliases": ["Priya M."],
+    "pastCrimes": [{"caseNo":"CR-2021-062","crime":"Identity Fraud","year":2021,"status":"Closed"}],
+    "totalCases": 1,
+    "lastCaseYear": 2021,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10027",
+    "fullName": "Vikas Gupta",
+    "aliases": ["Vikas G."],
+    "pastCrimes": [{"caseNo":"CR-2019-311","crime":"Burglary","year":2019,"status":"Closed"}],
+    "totalCases": 1,
+    "lastCaseYear": 2019,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10028",
+    "fullName": "Neha Kapoor",
+    "aliases": ["Neha K."],
+    "pastCrimes": [{"caseNo":"CR-2024-018","crime":"Cybercrime","year":2024,"status":"Under Review"}],
+    "totalCases": 1,
+    "lastCaseYear": 2024,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10029",
+    "fullName": "Arjun Malhotra",
+    "aliases": ["Arjun M."],
+    "pastCrimes": [{"caseNo":"CR-2020-174","crime":"Fraud","year":2020,"status":"Closed"}],
+    "totalCases": 1,
+    "lastCaseYear": 2020,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10030",
+    "fullName": "Deepak Joshi",
+    "aliases": ["Deepak J."],
+    "pastCrimes": [{"caseNo":"CR-2022-201","crime":"Property Theft","year":2022,"status":"Closed"}],
+    "totalCases": 1,
+    "lastCaseYear": 2022,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10031",
+    "fullName": "Rohit Kumar",
+    "aliases": ["Rohit K."],
+    "pastCrimes": [{"caseNo":"CR-2021-144","crime":"Vehicle Theft","year":2021,"status":"Closed"}],
+    "totalCases": 1,
+    "lastCaseYear": 2021,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10032",
+    "fullName": "Pooja Verma",
+    "aliases": ["Pooja V."],
+    "pastCrimes": [{"caseNo":"CR-2023-129","crime":"Cybercrime","year":2023,"status":"Closed"}],
+    "totalCases": 1,
+    "lastCaseYear": 2023,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10033",
+    "fullName": "Sanjay Mishra",
+    "aliases": ["Sanjay M."],
+    "pastCrimes": [{"caseNo":"CR-2017-091","crime":"Burglary","year":2017,"status":"Closed"}],
+    "totalCases": 1,
+    "lastCaseYear": 2017,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10034",
+    "fullName": "Karan Singh",
+    "aliases": ["Karan S."],
+    "pastCrimes": [{"caseNo":"CR-2020-263","crime":"Fraud","year":2020,"status":"Closed"}],
+    "totalCases": 1,
+    "lastCaseYear": 2020,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10035",
+    "fullName": "Manoj Kumar",
+    "aliases": ["Manoj K."],
+    "pastCrimes": [{"caseNo":"CR-2019-156","crime":"Property Theft","year":2019,"status":"Closed"}],
+    "totalCases": 1,
+    "lastCaseYear": 2019,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10036",
+    "fullName": "Nitin Sharma",
+    "aliases": ["Nitin S."],
+    "pastCrimes": [{"caseNo":"CR-2024-066","crime":"Cybercrime","year":2024,"status":"Under Review"}],
+    "totalCases": 1,
+    "lastCaseYear": 2024,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10037",
+    "fullName": "Ravi Chauhan",
+    "aliases": ["Ravi C."],
+    "pastCrimes": [{"caseNo":"CR-2018-118","crime":"Vehicle Theft","year":2018,"status":"Closed"}],
+    "totalCases": 1,
+    "lastCaseYear": 2018,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10038",
+    "fullName": "Mohit Agarwal",
+    "aliases": ["Mohit A."],
+    "pastCrimes": [{"caseNo":"CR-2022-289","crime":"Fraud","year":2022,"status":"Closed"}],
+    "totalCases": 1,
+    "lastCaseYear": 2022,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10039",
+    "fullName": "Shweta Gupta",
+    "aliases": ["Shweta G."],
+    "pastCrimes": [{"caseNo":"CR-2023-207","crime":"Identity Fraud","year":2023,"status":"Closed"}],
+    "totalCases": 1,
+    "lastCaseYear": 2023,
+    "recordStatus": "Historical Record"
+  },
+  {
+    "criminalId": "CHR-10040",
+    "fullName": "Rahul Kumar",
+    "aliases": ["Rahul K."],
+    "pastCrimes": [
+      {"caseNo":"CR-2020-051","crime":"Vehicle Theft","year":2020,"status":"Closed"},
+      {"caseNo":"CR-2023-155","crime":"Burglary","year":2023,"status":"Under Review"}
+    ],
+    "totalCases": 2,
+    "lastCaseYear": 2023,
+    "recordStatus": "Historical Record"
+  }
+]

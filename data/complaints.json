@@ -1,0 +1,315 @@
+[
+  {
+    "id": "FIR-RK-001",
+    "referenceNumber": "FIR-RK-001",
+    "recordType": "Police Complaint / FIR Intake Record",
+    "complaintType": "Vehicle Theft",
+    "complainantName": "Arun Mehta",
+    "complainantContact": "9876543210",
+    "complainantAddress": "Sector 15, Faridabad",
+    "accusedName": "Ramesh Kumar",
+    "description": "Vehicle theft complaint. Ramesh Kumar is named in the submitted complaint for prototype investigation.",
+    "area": "Sector 15, Faridabad",
+    "location": {
+      "city": "Faridabad",
+      "lat": 28.4089,
+      "lng": 77.3178
+    },
+    "severity": "High",
+    "filedByOfficerId": "INSP001",
+    "filedByOfficerName": "Rajiv Sharma",
+    "status": "Under Investigation",
+    "caseHistory": [
+      {
+        "status": "Open",
+        "changedAt": "2026-09-08T16:08:49.588826+00:00",
+        "changedByOfficerId": "INSP001"
+      },
+      {
+        "status": "Under Investigation",
+        "changedAt": "2026-09-09T16:08:49.588826+00:00",
+        "changedByOfficerId": "INSP001"
+      }
+    ],
+    "filedAt": "2026-09-08T16:08:49.588826+00:00",
+    "nlpResult": {
+      "language": "English"
+    },
+    "identityResult": {
+      "matched": true
+    },
+    "reportDeadline": "2026-09-15T16:08:49.588826+00:00"
+  },
+  {
+    "id": "FIR-RK-002",
+    "referenceNumber": "FIR-RK-002",
+    "recordType": "Police Complaint / FIR Intake Record",
+    "complaintType": "Property Theft",
+    "complainantName": "Neha Verma",
+    "complainantContact": "9876501234",
+    "complainantAddress": "Sector 12, Faridabad",
+    "accusedName": "Ramesh Kumar",
+    "description": "Property theft complaint recorded for prototype case investigation. The name Ramesh Kumar appears in the submitted statement.",
+    "area": "Sector 12, Faridabad",
+    "location": {
+      "city": "Faridabad",
+      "lat": 28.4125,
+      "lng": 77.3042
+    },
+    "severity": "Medium",
+    "filedByOfficerId": "INSP002",
+    "filedByOfficerName": "Priya Singh",
+    "status": "Open",
+    "caseHistory": [
+      {
+        "status": "Open",
+        "changedAt": "2026-09-10T16:08:49.588826+00:00",
+        "changedByOfficerId": "INSP002"
+      }
+    ],
+    "filedAt": "2026-09-10T16:08:49.588826+00:00",
+    "nlpResult": {
+      "language": "English"
+    },
+    "identityResult": {
+      "matched": true
+    },
+    "reportDeadline": "2026-09-17T16:08:49.588826+00:00"
+  },
+  {
+    "id": "FIR-RK-003",
+    "referenceNumber": "FIR-RK-003",
+    "recordType": "Police Complaint / FIR Intake Record",
+    "complaintType": "Mobile Phone Theft",
+    "complainantName": "Priya Nair",
+    "complainantContact": "9800000001",
+    "complainantAddress": "Main Road, New Delhi",
+    "accusedName": "Ramesh Kumar",
+    "description": "Ramesh Kumar was named during the complaint intake regarding a stolen mobile phone.",
+    "area": "Main Road, New Delhi",
+    "location": {
+      "city": "New Delhi",
+      "lat": 28.6,
+      "lng": 77.1
+    },
+    "severity": "Critical",
+    "filedByOfficerId": "INSP001",
+    "filedByOfficerName": "Rajiv Sharma",
+    "status": "Open",
+    "caseHistory": [
+      {
+        "status": "Open",
+        "changedAt": "2026-09-10T12:00:00+00:00",
+        "changedByOfficerId": "INSP001"
+      }
+    ],
+    "filedAt": "2026-09-10T12:00:00+00:00",
+    "nlpResult": {
+      "language": "English"
+    },
+    "identityResult": {
+      "matched": true
+    },
+    "reportDeadline": "2026-09-17T12:00:00+00:00"
+  },
+  {
+    "id": "FIR-RK-004",
+    "referenceNumber": "FIR-RK-004",
+    "recordType": "Police Complaint / FIR Intake Record",
+    "complaintType": "House Burglary",
+    "complainantName": "Amit Joshi",
+    "complainantContact": "9800000002",
+    "complainantAddress": "Main Road, Ghaziabad",
+    "accusedName": "Ramesh Kumar",
+    "description": "Complaint reports a house burglary and names Ramesh Kumar for prototype investigation.",
+    "area": "Main Road, Ghaziabad",
+    "location": {
+      "city": "Ghaziabad",
+      "lat": 28.62,
+      "lng": 77.13
+    },
+    "severity": "High",
+    "filedByOfficerId": "INSP001",
+    "filedByOfficerName": "Rajiv Sharma",
+    "status": "Open",
+    "caseHistory": [
+      {
+        "status": "Open",
+        "changedAt": "2026-09-09T12:00:00+00:00",
+        "changedByOfficerId": "INSP001"
+      }
+    ],
+    "filedAt": "2026-09-09T12:00:00+00:00",
+    "nlpResult": {
+      "language": "English"
+    },
+    "identityResult": {
+      "matched": true
+    },
+    "reportDeadline": "2026-09-16T12:00:00+00:00"
+  },
+  {
+    "id": "FIR-RK-005",
+    "referenceNumber": "FIR-RK-005",
+    "recordType": "Police Complaint / FIR Intake Record",
+    "complaintType": "Chain Snatching",
+    "complainantName": "Sonal Gupta",
+    "complainantContact": "9800000003",
+    "complainantAddress": "Main Road, Noida",
+    "accusedName": "Ramesh Kumar",
+    "description": "Chain snatching complaint with Ramesh Kumar listed as a person of investigative interest.",
+    "area": "Main Road, Noida",
+    "location": {
+      "city": "Noida",
+      "lat": 28.64,
+      "lng": 77.16
+    },
+    "severity": "High",
+    "filedByOfficerId": "INSP001",
+    "filedByOfficerName": "Rajiv Sharma",
+    "status": "Under Investigation",
+    "caseHistory": [
+      {
+        "status": "Open",
+        "changedAt": "2026-09-08T12:00:00+00:00",
+        "changedByOfficerId": "INSP001"
+      },
+      {
+        "status": "Under Investigation",
+        "changedAt": "2026-09-09T12:00:00+00:00",
+        "changedByOfficerId": "INSP001"
+      }
+    ],
+    "filedAt": "2026-09-08T12:00:00+00:00",
+    "nlpResult": {
+      "language": "English"
+    },
+    "identityResult": {
+      "matched": true
+    },
+    "reportDeadline": "2026-09-15T12:00:00+00:00"
+  },
+  {
+    "id": "FIR-RK-006",
+    "referenceNumber": "FIR-RK-006",
+    "recordType": "Police Complaint / FIR Intake Record",
+    "complaintType": "Online Fraud",
+    "complainantName": "Vikas Singh",
+    "complainantContact": "9800000004",
+    "complainantAddress": "Main Road, Meerut",
+    "accusedName": "Ramesh Kumar",
+    "description": "Online fraud complaint where Ramesh Kumar is referenced in the submitted statement.",
+    "area": "Main Road, Meerut",
+    "location": {
+      "city": "Meerut",
+      "lat": 28.66,
+      "lng": 77.19
+    },
+    "severity": "Medium",
+    "filedByOfficerId": "INSP001",
+    "filedByOfficerName": "Rajiv Sharma",
+    "status": "Open",
+    "caseHistory": [
+      {
+        "status": "Open",
+        "changedAt": "2026-09-07T12:00:00+00:00",
+        "changedByOfficerId": "INSP001"
+      }
+    ],
+    "filedAt": "2026-09-07T12:00:00+00:00",
+    "nlpResult": {
+      "language": "English"
+    },
+    "identityResult": {
+      "matched": true
+    },
+    "reportDeadline": "2026-09-14T12:00:00+00:00"
+  },
+  {
+    "id": "FIR-RK-007",
+    "referenceNumber": "FIR-RK-007",
+    "recordType": "Police Complaint / FIR Intake Record",
+    "complaintType": "Robbery",
+    "complainantName": "Kavita Verma",
+    "complainantContact": "9800000005",
+    "complainantAddress": "Main Road, Delhi",
+    "accusedName": "Ramesh Kumar",
+    "description": "Robbery complaint with Ramesh Kumar named for prototype case investigation.",
+    "area": "Main Road, Delhi",
+    "location": {
+      "city": "Delhi",
+      "lat": 28.68,
+      "lng": 77.22
+    },
+    "severity": "Critical",
+    "filedByOfficerId": "INSP001",
+    "filedByOfficerName": "Rajiv Sharma",
+    "status": "Under Investigation",
+    "caseHistory": [
+      {
+        "status": "Open",
+        "changedAt": "2026-09-06T12:00:00+00:00",
+        "changedByOfficerId": "INSP001"
+      },
+      {
+        "status": "Under Investigation",
+        "changedAt": "2026-09-07T12:00:00+00:00",
+        "changedByOfficerId": "INSP001"
+      }
+    ],
+    "filedAt": "2026-09-06T12:00:00+00:00",
+    "nlpResult": {
+      "language": "English"
+    },
+    "identityResult": {
+      "matched": true
+    },
+    "reportDeadline": "2026-09-13T12:00:00+00:00"
+  },
+  {
+    "id": "FIR-RK-008",
+    "referenceNumber": "FIR-RK-008",
+    "recordType": "Police Complaint / FIR Intake Record",
+    "complaintType": "Vehicle Theft",
+    "complainantName": "Rahul Yadav",
+    "complainantContact": "9800000006",
+    "complainantAddress": "Main Road, Faridabad",
+    "accusedName": "Ramesh Kumar",
+    "description": "Vehicle theft complaint involving Ramesh Kumar in the prototype historical case workflow.",
+    "area": "Main Road, Faridabad",
+    "location": {
+      "city": "Faridabad",
+      "lat": 28.700000000000003,
+      "lng": 77.25
+    },
+    "severity": "High",
+    "filedByOfficerId": "INSP001",
+    "filedByOfficerName": "Rajiv Sharma",
+    "status": "Closed",
+    "caseHistory": [
+      {
+        "status": "Open",
+        "changedAt": "2026-09-05T12:00:00+00:00",
+        "changedByOfficerId": "INSP001"
+      },
+      {
+        "status": "Under Investigation",
+        "changedAt": "2026-09-06T12:00:00+00:00",
+        "changedByOfficerId": "INSP001"
+      },
+      {
+        "status": "Closed",
+        "changedAt": "2026-09-08T12:00:00+00:00",
+        "changedByOfficerId": "INSP001"
+      }
+    ],
+    "filedAt": "2026-09-05T12:00:00+00:00",
+    "nlpResult": {
+      "language": "English"
+    },
+    "identityResult": {
+      "matched": true
+    },
+    "reportDeadline": "2026-09-12T12:00:00+00:00"
+  }
+]

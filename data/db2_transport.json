@@ -1,0 +1,128 @@
+[
+  {
+    "challanId": "TR-88213",
+    "name": "Ramesh Kummar",
+    "vehicleNo": "HR26 AB 4521",
+    "licenseNo": "HR0420110033445",
+    "address": "Sector 12, Faridabad"
+  },
+  {
+    "challanId": "TR-90341",
+    "name": "Suresh Yadaw",
+    "vehicleNo": "UP32 CD 7712",
+    "licenseNo": "UP3220150022110",
+    "address": "Kanpur Rd, Lucknow"
+  },
+  {
+    "challanId": "TR-91002",
+    "name": "Deepak Verma",
+    "vehicleNo": "DL8C AY 0091",
+    "licenseNo": "DL0520090012233",
+    "address": "Rohini, Delhi"
+  },
+  {
+    "challanId": "TR-92117",
+    "name": "Rahul K.",
+    "vehicleNo": "UP15 EF 2201",
+    "licenseNo": "UP1520190045121",
+    "address": "Shastri Nagar, Meerut"
+  },
+  {
+    "challanId": "TR-93422",
+    "name": "Mohit Sharma",
+    "vehicleNo": "DL3C BK 1188",
+    "licenseNo": "DL0520170088112",
+    "address": "Laxmi Nagar, Delhi"
+  },
+  {
+    "challanId": "TR-94530",
+    "name": "Aman Vermaa",
+    "vehicleNo": "UP14 GH 6602",
+    "licenseNo": "UP1420200066123",
+    "address": "Vasundhara, Ghaziabad"
+  },
+  {
+    "challanId": "TR-95741",
+    "name": "Arjun Singh",
+    "vehicleNo": "UP12 JK 9033",
+    "licenseNo": "UP1220160027831",
+    "address": "Civil Lines, Muzaffarnagar"
+  },
+  {
+    "challanId": "TR-96880",
+    "name": "Neeraj Kr.",
+    "vehicleNo": "UP15 LM 4455",
+    "licenseNo": "UP1520180039120",
+    "address": "Roorkee Road, Meerut"
+  },
+  {
+    "challanId": "TR-97914",
+    "name": "Ravi Yadav",
+    "vehicleNo": "UP37 NP 7744",
+    "licenseNo": "UP3720140019981",
+    "address": "Hapur Road, Hapur"
+  },
+  {
+    "challanId": "TR-98125",
+    "name": "Kunal Sharma",
+    "vehicleNo": "UP16 QR 2299",
+    "licenseNo": "UP1620210088770",
+    "address": "Sector 62, Noida"
+  },
+  {
+    "challanId": "TR-99318",
+    "name": "Pankaj Mishra",
+    "vehicleNo": "UP32 ST 5501",
+    "licenseNo": "UP3220120032140",
+    "address": "Aliganj, Lucknow"
+  },
+  {
+    "challanId": "TR-10021",
+    "name": "Nitin Chauhan",
+    "vehicleNo": "UP15 UV 8810",
+    "licenseNo": "UP1520190022144",
+    "address": "Jagriti Vihar, Meerut"
+  },
+  {
+    "challanId": "TR-10145",
+    "name": "Sanjay Patel",
+    "vehicleNo": "GJ01 WX 3388",
+    "licenseNo": "GJ0120150077612",
+    "address": "Navrangpura, Ahmedabad"
+  },
+  {
+    "challanId": "TR-10260",
+    "name": "Imran Khan",
+    "vehicleNo": "DL1Z AA 6712",
+    "licenseNo": "DL0520160044219",
+    "address": "Okhla, Delhi"
+  },
+  {
+    "challanId": "TR-10374",
+    "name": "Manoj Das",
+    "vehicleNo": "WB06 BB 2290",
+    "licenseNo": "WB0620130061190",
+    "address": "Howrah, Kolkata"
+  },
+  {
+    "challanId": "TR-10489",
+    "name": "Ajay Reddy",
+    "vehicleNo": "TS09 CC 7811",
+    "licenseNo": "TS0920180031165",
+    "address": "Secunderabad, Hyderabad"
+  },
+  {
+    "challanId": "TR-10593",
+    "name": "Suresh Kumaar",
+    "vehicleNo": "TN09 DD 4401",
+    "licenseNo": "TN0920140059011",
+    "address": "Mylapore, Chennai"
+  },
+  {
+    "challanId": "TR-10702",
+    "name": "Vijay Nair",
+    "vehicleNo": "KL07 EE 1920",
+    "licenseNo": "KL0720170021204",
+    "address": "Kochi, Kerala"
+  }
+]
